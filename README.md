@@ -21,9 +21,8 @@ openjdk version "11" 2018-09-25
 ```bash
 
 # local setup
- Extract the given zip into your local using the below command in your gitbash.
- unzip newrelic-code-exercise.zip -d newrelic-code-exercise
-
+git clone https://github.com/nivgithub/newrelic-code-exercise.git
+ 
 
 # Build Application 
 cd newrelic-code-exercise
